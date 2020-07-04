@@ -12,6 +12,10 @@ The location data is used to pull up restaurants nearby.
 The user can then select a restaurant and see additional information such as a link to the full menu, address, phone number, and price range (if available).
 Then, the user can select the restaurant and view the clickable menu items which will be stored in the Dishlist for future viewing!
 
+Check out the following GIF for a demo of the application
+
+![Dish Tracker Demo Gif](./assets/images/Dish_Tracker_Welcome.gif)
+
 ##### Future development
 - search by zipcode
 - nutrition info per dish
