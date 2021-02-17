@@ -4,7 +4,7 @@
 https://avanidhalgara.github.io/caps/
 
 #### Track your favorite dishes with Dish Tracker
-Our Dish Tracker app is designed to help you remeber which dishes you've ordered at your favorite restaurants, so you can continue trying new things instead of falling into the habit of ordering the same dish each visit.
+Our Dish Tracker app is designed to help you remember which dishes you've ordered at your favorite restaurants, so you can continue trying new things instead of falling into the habit of ordering the same dish each visit.
 
 #### How it works
 The user is prompted for their location upon entering the homepage. 
